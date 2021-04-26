@@ -1,0 +1,21 @@
+.Board-title {
+  color: #c529f5;
+}
+
+.Board-winner {
+  color: #c529f5;
+}
+
+.Board-progress {
+  color: #c529f5;
+}
+
+.Board-table {
+  margin: auto;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  box-shadow: 0 0 30px #c529f5;
+  background-color: black;
+  border-radius: 7px;
+  table-layout: fixed;
+}
